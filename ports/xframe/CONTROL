@@ -1,0 +1,5 @@
+Source: xframe
+Version: 0.2.0
+Description: xframe is a dataframe for C++ (early developer preview)
+Homepage: https://quantstack.net/xframe
+Build-Depends: xtl, xtensor
